@@ -1,6 +1,6 @@
 # Hey, I'm George!
 I'm a recent Software Engineering graduate from Cardiff University!
-## Software Engineering Projects:
+## :man_technologist: Software Engineering Projects:
 
 - **CHIL Research: Sub-glacial Monitoring system (React + Django + Maria DB)**
   - [Cardiff Earth Project](https://github.com/georgebertiebridle/Final-Year-LTP---CHIL-)
