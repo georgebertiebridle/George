@@ -2,7 +2,7 @@
 I'm a recent Software Engineering graduate from Cardiff University!
 ## :man_technologist: Software Engineering Projects:
 
-- **CHIL Research: Sub-glacial Monitoring system (React + Django + Maria DB)**
+- **CHIL Research: Full-Stack Sub-glacial Data Visualisation WebApp (React + Django + Maria DB)**
   - [Cardiff Earth Project](https://github.com/georgebertiebridle/Final-Year-LTP---CHIL-)
 
 - **BipSync: Onboarding Platform (Springboot + MySQL)**
